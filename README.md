@@ -1,8 +1,8 @@
-# Dementia Alarm Chatbot
+# LINE Chatbot - Voice Memo Alarm System
 
-A new way to connect to dementia people. Want to remind patient something? Start with LINE.
+A new way to send voice reminders through LINE. Want to remind someone something? Start with LINE.
 
-Your voice message in LINE can be directly broadcasted to the speaker, which can be heard by patient easily. It comes with alarm feature, so your voice message will be automatically broadcasted to patient, at the right time. Note that, the alarm is customizable voice message... Now that is revolutionary!
+Your voice message in LINE can be directly broadcasted to the speaker, which can be heard easily. It comes with alarm feature, so your voice message will be automatically broadcasted at the right time. Note that, the alarm is customizable voice message... Now that is revolutionary!
 
 > Mobile-only: Some features are not available on LINE desktop app
 
