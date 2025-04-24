@@ -1,4 +1,4 @@
-# LINE Chatbot - Voice Memo Alarm System
+# LINE Chatbot - Voice Memo Alarm
 
 A new way to send voice reminders through LINE. Want to remind someone something? Start with LINE.
 
